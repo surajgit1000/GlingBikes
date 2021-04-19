@@ -1,0 +1,28 @@
+.navbar-brand{
+    color: white;
+    font-weight: 500;
+    font-family: 'Dela Gothic One', cursive;
+    letter-spacing: normal;
+}
+.navbar-brand:hover{
+    color: rgb(248, 231, 77);
+    font-size: 25px;
+}
+.nav-link{
+    color: white;
+    font-size: 18px;
+    font-family: cursive;
+}
+.nav-link:hover{
+    color: rgb(248, 231, 77);;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 400;
+}
+.btn{
+    display: inline-flex;
+    overflow: hidden;
+}
+.btn:hover{
+    color:rgb(248, 231, 77) ;
+}

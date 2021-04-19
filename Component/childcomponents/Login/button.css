@@ -1,0 +1,53 @@
+.buttonf{
+  margin-top: 20px;
+  border-radius: 5px;
+  border-color: rgb(23, 224, 214);
+  display: inline-flex;
+  overflow: hidden;
+  height: 50px;
+  background-color:#4267B2;
+}
+.buttonf:hover{
+    background-color: #8faff0;
+}
+.btn_text{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn_logo{
+    color: #f9fbff
+}
+.btn_text , .btn_logo{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+}
+.buttong{
+    margin-top: 20px;
+    border-radius: 5px;
+    border-color: #4885ed;
+    display: inline-flex;
+    overflow: hidden;
+    height: 50px;
+    background-color:#4885ed;
+    width: 252px;
+}
+.buttong:hover{
+    background-color: #75a3f1;
+}
+.btn_textg{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.btn_logog{
+    color: #f9fbff
+}
+.btn_textg , .btn_logog{
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+}
